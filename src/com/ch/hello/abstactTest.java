@@ -1,6 +1,7 @@
 package com.ch.hello;
 
 abstract  class A{
+    private int age;
     public A(){
         System.out.println("*****A*****");
     }
